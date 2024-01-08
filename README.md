@@ -9,7 +9,7 @@
 - 📫 My email is Kevin729@tongji.edu.cn, feel free to contact me :).
 - 🗣️ Language: English 🇺🇸 / 中文 🇨🇳.
 - 🔗 Welcome to my [Fundamentals of Computer Graphics-5th Note](https://tangible-havarti-5bc.notion.site/16796f24178943d18b9e4be1091a325f?pvs=4) / [Paper Reading](https://opalescent-network-612.notion.site/be75c0cf42f5454f969fb3b0040f7444?pvs=4) and leave some comments.
-- 🎒 This is my [CV site](https://bigcileng.github.io/).
+- 🎒 This is my [CV site](https://KevinSONG729.github.io/).
 
 <p align="center">
   <a href="https://github.com/KevinSONG729" class="rich-diff-level-one">
