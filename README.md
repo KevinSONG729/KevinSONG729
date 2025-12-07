@@ -1,12 +1,12 @@
-### Hi there, this is KevinS | 宋枭炜👋
+### Hi there, this is Xiaowei.Song | 宋枭炜👋
 
 <p align="center">
 <img  alt="PNG" src="https://raw.githubusercontent.com/KevinSONG729/PicGo/main/Fundamentals%20of%20Computer%20Graphics-5th/微信图片_20221128171439.png" width="200" title="Say HI">
 </p>
 
-- 🌱 I am a Second-year Computer Science Master's student at CAD Research Center, Tongji University.
+- 🌱 I am currently a Simulation Algorithm Engineer at Lightwheel AI (光轮智能), working since July 2025.
 - 📖 My research interest includes NeRF & 3D Gaussian Splatting & Diffusion.
-- 📫 My email is Kevin729@tongji.edu.cn, feel free to contact me :).
+- 📫 My email is xiaowei.song@lightwheel.ai, feel free to contact me :).
 - 🗣️ Language: English 🇺🇸 / 中文 🇨🇳.
 - 🔗 Welcome to my [Fundamentals of Computer Graphics-5th Note](https://tangible-havarti-5bc.notion.site/16796f24178943d18b9e4be1091a325f?pvs=4) / [Paper Reading](https://opalescent-network-612.notion.site/be75c0cf42f5454f969fb3b0040f7444?pvs=4) and leave some comments.
 - 🎒 This is my [CV site](https://KevinSONG729.github.io/).
